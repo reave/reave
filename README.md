@@ -7,7 +7,7 @@ Principal Endpoint Architect
 I'm a Principal Endpoint Architect. Focus on Windows, macOS, Linux, iOS, and Android client systems and the tools to manage, secure, and present them. I write automation, reporting, and administration code in PowerShell, Python, Bash, and C#
 
 *   🌍  I'm based in the US
-*   ✉️  You can contact me at [1323535+reave@users.noreply.github.com](mailto:1323535+reave@users.noreply.github.com)
+*   ✉️  Reach me through GitHub — open an issue or discussion on any of my repos, or find me at [github.com/reave](https://github.com/reave)
 *   🧠  I'm learning C#, Python, React
 *   🤝  I'm open to collaborating on PowerShell, Python, and Bash code for the administration, automation, and support of Windows, macOS, and Linux
 *   ⚡  I do a lot of gaming and watch a lot of TV and Anime...
